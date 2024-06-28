@@ -1,0 +1,1 @@
+angleFromPlayer = obj_Player.hook.image_angle

@@ -1,0 +1,1 @@
+audio_play_sound(snd_squeak,1,0)

@@ -1,0 +1,1 @@
+transition_start(room_GameOver, sq_FadeOut, sq_FadeIn)

@@ -1,0 +1,1 @@
+if layer_sequence_is_finished(sqTutorial) layer_sequence_destroy(sqTutorial)
